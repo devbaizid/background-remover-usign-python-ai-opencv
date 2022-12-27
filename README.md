@@ -5,3 +5,20 @@
 
 ![image](https://user-images.githubusercontent.com/91944929/209688256-4ec4d964-9c7b-41fd-8e21-585740cb6276.png)
 
+``
+
+git clone https://github.com/Mdbaizidtanvir/background-remover-usign-python-ai-opencv.git
+
+// then open the folder
+
+pip install -r requirements.txt
+
+// then 
+
+cd background-remover-usign-python-ai-opencv
+// then 
+
+run: python ./main.py
+
+
+``
